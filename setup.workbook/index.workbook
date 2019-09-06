@@ -1,0 +1,21 @@
+---
+uti: com.xamarin.workbook
+id: 4d7113fc-a4a0-499c-9d06-fb2353c1be41
+title: index
+platforms:
+- DotNetCore
+---
+
+# DinoDiner Setup Guide
+
+We will be using several professional tools to develop our projects this semester - most notably Visual Studio, Git, and Github.  This guide walks you creating your Visual Studio solution for your project, intializing Git, and adding your project to your Github account.
+
+## Step 1: Installation of Tools
+
+You will need to install Visual Studio and Git if they are not already installed on your system.  Visual Studio can be downloaded here: <https://visualstudio.microsoft.com/downloads/>.  Git is bundled with the Visual Studio installer, or a separate installer can be downloaded from <https://git-scm.com/downloads>.
+
+## Step 2: Create the Visual Studio Solution
+
+Open Visual Studio 2019, and select “New Solution” from the file menu.  This will launch a wizard allowing you to select a project template.  Pick “Library” under the “Multiplatform” heading in the sidebar, and then choose a .NET Standard Library.
+
+A .NET standard library is a kind of project that is intended to be used by *other* Visual Studio projects.

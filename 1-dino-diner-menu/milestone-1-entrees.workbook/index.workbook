@@ -1,0 +1,7 @@
+---
+uti: com.xamarin.workbook
+id: 15165c91-c506-4e8f-8577-425c960cf5a9
+title: Untitled
+platforms:
+- DotNetCore
+---
